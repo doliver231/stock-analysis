@@ -14,16 +14,16 @@ Using VBA's full capability, we want to create a code to automate the analyses p
 
 ### Refactored Code
 
-![Refactored VBA Code - Part 1]()
-![Refactored VBA Code - Part 2]()
-![Refactored VBA Code - Part 3]()
-![Refactored VBA Code - Part 4]()
+![Refactored VBA Code - Part 1](https://github.com/doliver231/stock-analysis/blob/main/Resources/Refactored_Code_1.png)
+![Refactored VBA Code - Part 2](https://github.com/doliver231/stock-analysis/blob/main/Resources/Refactored_Code_2.png)
+![Refactored VBA Code - Part 3](https://github.com/doliver231/stock-analysis/blob/main/Resources/Refactored_Code_3.png)
+![Refactored VBA Code - Part 4](https://github.com/doliver231/stock-analysis/blob/main/Resources/Refactored_Code_4.png)
 
 ### VBA Code Execution Time
 
-![Original Execution Time for 2017]()
-![Original Execution Time for 2018]()
-![Refactored Execution Time for 2017]()
-![Refactored Execution Time for 2018]()
+![Original Execution Time for 2017](https://github.com/doliver231/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png)
+![Original Execution Time for 2018](https://github.com/doliver231/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png)
+![Refactored Execution Time for 2017](https://github.com/doliver231/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![Refactored Execution Time for 2018](https://github.com/doliver231/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
